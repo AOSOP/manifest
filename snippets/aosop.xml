@@ -28,5 +28,6 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="optimized" revision="oreo" />
   <project path="system/media" name="system_media" groups="pdk" remote="optimized" revision="oreo" />
   <project path="vendor/aosop" name="vendor_aosop" remote="optimized" revision="oreo" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="optimized" revision="oreo" />
 
 </manifest>
